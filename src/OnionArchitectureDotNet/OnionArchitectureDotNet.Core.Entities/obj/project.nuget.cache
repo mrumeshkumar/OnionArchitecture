@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XfDRAFquOhrWOT7sdVHbdbkIgrouZr6iMQHRYiSBXD2/eNvL24dHLSDoZYPsds3iv0Td/7V1yrGOEZJeXoJg4g==",
+  "success": true,
+  "projectFilePath": "D:\\CODE\\Clean Architecture\\OnionArchitectureDotNet\\OnionArchitectureDotNet.Core.Entities\\OnionArchitectureDotNet.Core.Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\umesh\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

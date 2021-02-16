@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnionArchitectureDotNet.Core\OnionArchitectureDotNet.Core.csproj" />
+    <ProjectReference Include="..\OnionArchitectureDotNet.Infrastructure.Repository\OnionArchitectureDotNet.Infrastructure.Repository.csproj" />
+  </ItemGroup>
+
+</Project>

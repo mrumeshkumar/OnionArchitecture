@@ -1,0 +1,9 @@
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.deps.json
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.csprojAssemblyReference.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.AssemblyInfoInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.AssemblyInfo.cs
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.csproj.CoreCompileInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Caching\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Caching.pdb

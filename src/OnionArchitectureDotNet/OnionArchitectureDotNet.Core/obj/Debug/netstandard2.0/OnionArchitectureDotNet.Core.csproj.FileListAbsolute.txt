@@ -1,0 +1,9 @@
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Core.deps.json
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Core.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Core.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Core.csprojAssemblyReference.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Core.AssemblyInfoInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Core.AssemblyInfo.cs
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Core.csproj.CoreCompileInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Core.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Core\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Core.pdb

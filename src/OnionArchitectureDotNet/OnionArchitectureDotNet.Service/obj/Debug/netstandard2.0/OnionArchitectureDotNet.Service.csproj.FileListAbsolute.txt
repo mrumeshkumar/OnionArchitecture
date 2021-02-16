@@ -1,0 +1,14 @@
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Service.deps.json
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Service.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Service.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.csprojAssemblyReference.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.AssemblyInfoInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.AssemblyInfo.cs
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.csproj.CoreCompileInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Core.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Core.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Service.csproj.CopyComplete
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Repository.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Service\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Repository.pdb

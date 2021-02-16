@@ -1,0 +1,9 @@
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.deps.json
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\bin\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.AssemblyInfoInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.AssemblyInfo.cs
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.csproj.CoreCompileInputs.cache
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.dll
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.pdb
+D:\CODE\Clean Architecture\OnionArchitectureDotNet\OnionArchitectureDotNet.Infrastructure.Logging\obj\Debug\netstandard2.0\OnionArchitectureDotNet.Infrastructure.Logging.csprojAssemblyReference.cache
