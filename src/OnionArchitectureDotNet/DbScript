@@ -1,0 +1,51 @@
+USE [ToDoDB]
+GO
+/****** Object:  Table [dbo].[TaskItem]    Script Date: 16/02/2021 3:51:54 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[TaskItem](
+	[TaskID] [int] IDENTITY(1,1) NOT NULL,
+	[TaskName] [varchar](100) NOT NULL,
+	[IsCompleted] [bit] NOT NULL,
+ CONSTRAINT [PK_TaskItem] PRIMARY KEY CLUSTERED 
+(
+	[TaskID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[TaskItem] ADD  CONSTRAINT [DF_TaskItem_IsCompleted]  DEFAULT ((0)) FOR [IsCompleted]
+GO
+/****** Object:  StoredProcedure [dbo].[usp_GetAllToDoItem]    Script Date: 16/02/2021 3:51:54 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+
+-- =============================================
+CREATE PROCEDURE [dbo].[usp_GetAllToDoItem]
+
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+		select TaskID, TaskName, IsCompleted from TaskItem
+END
+GO
+/****** Object:  StoredProcedure [dbo].[usp_GetAllToDoItemByTaskID]    Script Date: 16/02/2021 3:51:54 PM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE PROCEDURE [dbo].[usp_GetAllToDoItemByTaskID] (@TaskID as INT)
+
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+		select TaskID, TaskName, IsCompleted from TaskItem where TaskID = @TaskID
+END
+GO
